@@ -1,0 +1,32 @@
+[
+    {
+      "userID": 1,
+      "userName": "Leaf Rake",
+      "userCode": "GDN-0011",
+      "Date": "March 19, 2019"
+    },
+    {
+      "userID": 2,
+      "userName": "Garden Cart",
+      "userCode": "GDN-0023",
+      "Date": "March 18, 2019"
+    },
+    {
+      "userID": 3,
+      "userName": "Hammer",
+      "userCode": "TBX-0048",
+      "Date": "May 21, 2019"
+    },
+    {
+      "userID": 4,
+      "userName": "Saw",
+      "userCode": "TBX-0022",
+      "Date": "May 15, 2019"
+    },
+    {
+      "userID": 5,
+      "userName": "Video Game Controller",
+      "userCode": "GMG-0042",
+      "Date": "October 15, 2018"
+    }
+  ]
